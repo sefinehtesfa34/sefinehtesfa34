@@ -1,7 +1,6 @@
 # Hi there 👋
 ## I am an Artificial intelligence Student and a software Developer.
 <img src = "https://github-readme-stats.vercel.app/api?username=sefinehtesfa34&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-<img  src="https://wakatime.com/share/@sefinehtesfa34/2ea83f02-29da-45b1-ac83-e77e61ce9fc0.svg" width = "60%" height = "20%"/>
 
 - 🔭 I’m currently working on digital library system at A2SV Eskalate.
 - 🌱 I’m currently learning Machine learning and Artificial intelligence.
@@ -11,4 +10,6 @@
 - 📫 How to reach me: 
 - email: sefinehtesfa34@gmail.com
 - phone: +251920627634 / +251922940502
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
