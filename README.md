@@ -1,6 +1,6 @@
 # Hi there 👋
-<img src = "https://github-readme-stats.vercel.app/api?username=Yared-betsega&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 ## I am an Artificial intelligence Student and a software Developer.
+<img src = "https://github-readme-stats.vercel.app/api?username=sefinehtesfa34&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 - 🔭 I’m currently working on digital library system at A2SV Eskalate.
 - 🌱 I’m currently learning Machine learning and Artificial intelligence.
