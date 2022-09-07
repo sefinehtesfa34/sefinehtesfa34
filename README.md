@@ -1,6 +1,5 @@
 # Hi there 👋
 <img src = "https://github-readme-stats.vercel.app/api?username=Yared-betsega&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-![emre](https://user-images.githubusercontent.com/88246220/188808399-126c735c-2243-45c3-855b-01ff9c449565.jpg)
 ## I am an Artificial intelligence Student and a software Developer.
 
 - 🔭 I’m currently working on digital library system at A2SV Eskalate.
