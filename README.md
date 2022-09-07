@@ -1,6 +1,5 @@
 # Hi there 👋
-<img src ="![emre](https://user-images.githubusercontent.com/88246220/188808399-126c735c-2243-45c3-855b-01ff9c449565.jpg)
-"></img>
+![emre](https://user-images.githubusercontent.com/88246220/188808399-126c735c-2243-45c3-855b-01ff9c449565.jpg)
 ## I am an Artificial intelligence Student and a software Developer.
 
 - 🔭 I’m currently working on digital library system at A2SV Eskalate.
