@@ -14,9 +14,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   13 hrs 19 mins  ███████████████████████▒░   93.84 %
-C++      52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+From: 04 September 2022 - To: 07 November 2022
+
+Total Time: 104 hrs 31 mins
+
+Python       88 hrs 3 mins   >>>>>>>>>>>>>>>>>>>>>----   84.24 %
+TypeScript   14 hrs 23 mins  >>>----------------------   13.78 %
+C++          1 hr 9 mins     -------------------------   01.11 %
+JavaScript   30 mins         -------------------------   00.49 %
+Bash         9 mins          -------------------------   00.16 %
+HTML         5 mins          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
