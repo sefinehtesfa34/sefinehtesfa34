@@ -1,5 +1,5 @@
 # Hi there 👋
-## I am an Artificial intelligence Student and a software Developer.
+## I am a software Developer and an Artificial intelligence Student.
 <img src = "https://github-readme-stats.vercel.app/api?username=sefinehtesfa34&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 <img src="https://wakatime.com/share/@sefinehtesfa34/ae9674e3-b462-4438-9120-52fc3d0ffbbb.png" width ="500" height = "450"/>
 
